@@ -12,6 +12,10 @@
 # https://gist.github.com/pol/773849
 #
 
+#######################################
+# RGB Color definitions in the
+#   form r,g,b (comma delim, no spaces)
+#######################################
 BLACK="0,0,0"
 WHITE="255,255,255"
 RED="40,0,0"
